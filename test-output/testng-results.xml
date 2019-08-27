@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13520" started-at="2019-08-27T07:57:27Z" finished-at="2019-08-27T07:57:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13520" started-at="2019-08-27T07:57:27Z" finished-at="2019-08-27T07:57:40Z">
+      <class name="mavenproject.MavenClass">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:mavenproject.MavenClass@7c16905e]" name="launchBrowser" duration-ms="13493" started-at="2019-08-27T13:27:27Z" finished-at="2019-08-27T13:27:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+      </class> <!-- mavenproject.MavenClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
